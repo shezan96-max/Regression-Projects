@@ -54,4 +54,5 @@ This project predicts the **profit of a startup** based on various investment fe
 ## 🔧 How to Run
 1. Clone this repo:  
 ```bash
-git clone https://github.com/shezan96-max/Startup-Profit-Prediction.git
+git clone https://github.com/shezan96-max/Regression-Projects/Linear-Regression/Startup-Profit-Prediction.git
+
