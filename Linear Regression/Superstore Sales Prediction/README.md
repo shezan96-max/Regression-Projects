@@ -61,4 +61,5 @@ This project predicts **sales of products in a superstore** using historical sal
 ## 🔧 How to Run
 1. Clone this repo:  
 ```bash
-git clone https://github.com/shezan96-max/Superstore-Sales-Prediction
+git clone https://github.com/shezan96-max/Regression-Projects/Linear-Regression/Superstore-Sales-Prediction.git
+
